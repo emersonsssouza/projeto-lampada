@@ -92,3 +92,16 @@ footer > p > a {
     text-decoration: none;
     
 }
+
+@media screen and (orientation: landscape) {
+  body {
+    background-image: url(imagens/portrait.jpg);
+  }
+}
+
+@media screen and (orientation: portrait) {
+  body {
+    background-image: url(imagens/landscape.jpg);
+  }
+  
+}
