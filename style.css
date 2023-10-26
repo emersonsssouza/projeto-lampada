@@ -95,13 +95,13 @@ footer > p > a {
 
 @media screen and (orientation: landscape) {
   body {
-    background-image: url(imagens/portrait.jpg);
+    background-image: url(fundo-background.jpg);
   }
 }
 
 @media screen and (orientation: portrait) {
   body {
-    background-image: url(imagens/landscape.jpg);
+    background-image: url(festa-background.jpg);
   }
   
 }
