@@ -11,7 +11,7 @@ function lampOn() {
   console.log("Ligou");
   if (!isquebrou()) {
     lamp.src = "imagens/ligada.png";
-    background.style.backgroundColor = "#DEB0A1";
+    background.style.backgroundColor = "#F2A20C";
     titulo.style.color = "#000"
   }
 }
